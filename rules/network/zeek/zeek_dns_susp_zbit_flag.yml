@@ -1,6 +1,6 @@
 title: Suspicious DNS Z Flag Bit Set
 id: ede05abc-2c9e-4624-9944-9ff17fdc0bf5
-status: experimental
+status: test
 description: |
   The DNS Z flag is bit within the DNS protocol header that is, per the IETF design, meant to be used reserved (unused).
   Although recently it has been used in DNSSec, the value being set to anything other than 0 should be rare.
