@@ -18,7 +18,7 @@ on: # yamllint disable-line rule:truthy
     #   - "unsupported/**.yml"
   pull_request:
     branches:
-      - master
+      - "master"
     # paths:
     #   - "deprecated/**.yml"
     #   - "rules-compliance/**.yml"
