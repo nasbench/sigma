@@ -1,6 +1,6 @@
 title: HackTool - LaZagne Execution
 id: c2b86e67-b880-4eec-b045-50bc98ef4844
-status: experimental
+status: test
 description: |
     Detects the execution of the LaZagne. A utility used to retrieve multiple types of passwords stored on a local computer.
     LaZagne has been leveraged multiple times by threat actors in order to dump credentials.
