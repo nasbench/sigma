@@ -1,0 +1,39 @@
+title: Notepad++ Installer Binary Planting (CVE-2025-49144)
+id: a104701a-cfc2-43e8-9c04-19ed93e6623d
+related:
+    -   id: d32d8725-3511-41ec-87ac-3996e2c5b2f7
+status: stable
+description: 'Detects execution of regsvr32.exe from non-system directories by Notepad++ installer, indicating potential binary planting attack.
+
+    '
+references:
+    - https://nvd.nist.gov/vuln/detail/CVE-2025-49144
+author: Kwaw Fletcher Frimpong
+date: 2025/06/28
+tags:
+    - Attack.privilege_escalation
+    - Attack.t1574.001
+    - CVE-2025-49144
+logsource:
+    product: windows
+    service: windows
+    category: process_creation
+detection:
+    detection:
+        selection:
+            EventID: 1
+            Image|endswith: \\regsvr32.exe
+            ParentImage|contains: npp
+        filter:
+            Image|startswith:
+                - C:\\Windows\\System32\\
+                - C:\\Windows\\SysWOW64\\
+        condition: selection and not filter
+    fields:
+        - Image
+        - ParentImage
+        - CommandLine
+        - CurrentDirectory
+falsepositives:
+    - Legitimate software installations using portable regsvr32
+level: high
