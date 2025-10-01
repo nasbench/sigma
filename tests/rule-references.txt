@@ -4093,3 +4093,15 @@ https://learn.microsoft.com/en-us/sql/t-sql/statements/drop-server-audit-transac
 https://admx.help/?Category=Windows_10_2016&Policy=Microsoft.Policies.InternetExplorer::IZ_IncludeUnspecifiedLocalSites
 https://web.archive.org/web/20230726144748/https://blog.thickmints.dev/mintsights/detecting-rogue-rdp/
 https://web.archive.org/web/20231221193106/https://www.swascan.com/cactus-ransomware-malware-analysis/
+https://www.linkedin.com/posts/kevin-beaumont-security_ive-been-assisting-a-few-orgs-hit-with-successful-activity-7268055739116445701-xxjZ/
+https://thedfirreport.com/2025/01/27/cobalt-strike-and-a-pair-of-socks-lead-to-lockbit-ransomware/
+https://github.com/0xthirteen/SharpMove/
+https://www.softperfect.com/products/networkscanner/
+https://bazaar.abuse.ch/sample/5cb9876681f78d3ee8a01a5aaa5d38b05ec81edc48b09e3865b75c49a2187831/
+https://github.com/redcanaryco/atomic-red-team/blob/75fa21076dcefa348a7521403cdd6bfc4e88623c/atomics/T1082/T1082.md
+https://labs.jumpsec.com/tokensmith-bypassing-intune-compliant-device-conditional-access/
+https://ipurple.team/2024/07/15/sharphound-detection/
+https://darkatlas.io/blog/medusa-ransomware-group-opsec-failure
+https://learn.microsoft.com/en-us/windows/win32/setupapi/run-and-runonce-registry-keys
+https://us-cert.cisa.gov/ncas/alerts/aa21-008a
+https://github.com/logangoins/SharpSuccessor
