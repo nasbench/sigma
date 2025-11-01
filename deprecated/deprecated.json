@@ -1062,5 +1062,19 @@
         "date": "2024-11-01",
         "modified": "2025-07-22",
         "level": "high"
+    },
+    {
+        "id": "a2a3b925-7bb0-433b-b508-db9003263cc4",
+        "title": "Active Directory Parsing DLL Loaded Via Office Application",
+        "date": "2020-02-19",
+        "modified": "2025-10-17",
+        "level": "medium"
+    },
+    {
+        "id": "cdeef967-f9a1-4375-90ee-6978c5f23974",
+        "title": "Azure Application Credential Modified",
+        "date": "2021-09-02",
+        "modified": "2025-10-17",
+        "level": "medium"
     }
 ]
