@@ -175,6 +175,7 @@ https://attackerkb.com/topics/Bkij5kK1qK/cve-2022-21587/rapid7-analysis
 https://attackerkb.com/topics/SSTk336Tmf/cve-2024-3400/rapid7-analysis
 https://awakesecurity.com/blog/threat-hunting-for-paexec/
 https://awscli.amazonaws.com/v2/documentation/api/2.14.0/reference/account/enable-region.html
+https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/delete-bucket.html
 https://bad-jubies.github.io/RCE-NOW-WHAT/
 https://badoption.eu/blog/2023/01/31/code_c2.html
 https://bazaar.abuse.ch/browse/signature/RaspberryRobin/
@@ -214,6 +215,7 @@ https://blog.cyble.com/2023/01/12/rhadamanthys-new-stealer-spreading-through-goo
 https://blog.cyble.com/2023/01/18/aurora-a-stealer-using-shapeshifting-tactics/
 https://blog.didierstevens.com/2015/03/16/quickpost-metasploit-user-agent-strings/
 https://blog.dylan.codes/evading-sysmon-and-windows-event-logging/
+https://blog.eclecticiq.com/china-nexus-nation-state-actors-exploit-sap-netweaver-cve-2025-31324-to-target-critical-infrastructures
 https://blog.eclecticiq.com/sandworm-apt-targets-ukrainian-users-with-trojanized-microsoft-kms-activation-tools-in-cyber-espionage-campaigns
 https://blog.emsisoft.com/en/32373/beware-new-wave-of-malware-spreads-via-iso-file-email-attachments/
 https://blog.f-secure.com/analysis-of-lockergoga-ransomware/
@@ -249,6 +251,7 @@ https://blog.netspi.com/15-ways-to-download-a-file/#bitsadmin
 https://blog.orange.tw/2021/08/proxylogon-a-new-attack-surface-on-ms-exchange-part-1.html
 https://blog.osarmor.com/319/onenote-attachment-delivers-asyncrat-malware/
 https://blog.qualys.com/vulnerabilities-threat-research/2022/06/20/defending-against-scheduled-task-attacks-in-windows-environments
+https://blog.qualys.com/vulnerabilities-threat-research/2025/05/29/qualys-tru-discovers-two-local-information-disclosure-vulnerabilities-in-apport-and-systemd-coredump-cve-2025-5054-and-cve-2025-4598
 https://blog.reconinfosec.com/emergence-of-akira-ransomware-group
 https://blog.redbluepurple.io/offensive-research/bypassing-injection-detection
 https://blog.redteam.pl/2020/06/black-kingdom-ransomware.html
@@ -1622,6 +1625,7 @@ https://github.com/sensepost/ruler
 https://github.com/sensepost/ruler/issues/47
 https://github.com/shantanu561993/SharpChisel
 https://github.com/Shellntel/scripts/
+https://github.com/shoober420/windows11-scripts/blob/38d83331738cd713ccb42f2c4557d17a27aefd98/Windows11Tweaks.bat#L1825
 https://github.com/SigmaHQ/sigma/blob/ad1bfd3d28aa0ccc9656240f845022518ef65a2e/documentation/logsource-guides/windows/service/security.md
 https://github.com/SigmaHQ/sigma/blob/master/documentation/logsource-guides/windows/service/security.md
 https://github.com/SigmaHQ/sigma/issues/1009
@@ -1851,6 +1855,7 @@ https://labs.sentinelone.com/meteorexpress-mysterious-wiper-paralyzes-iranian-tr
 https://labs.sentinelone.com/sarwent-malware-updates-command-detonation/
 https://labs.sentinelone.com/the-anatomy-of-an-apt-attack-and-cobaltstrike-beacons-encoded-configuration/
 https://labs.sentinelone.com/top-tier-russian-organized-cybercrime-group-unveils-fileless-stealthy-powertrick-backdoor-for-high-value-targets/
+https://labs.watchtowr.com/expression-payloads-meet-mayhem-cve-2025-4427-and-cve-2025-4428/?123
 https://labs.watchtowr.com/guess-who-would-be-stupid-enough-to-rob-the-same-vault-twice-pre-auth-rce-chains-in-commvault/
 https://labs.watchtowr.com/xortigate-or-cve-2023-27997/
 https://labs.withsecure.com/content/dam/labs/docs/f-secureLABS-tlp-white-lazarus-threat-intel-report2.pdf
@@ -2176,6 +2181,7 @@ https://learn.microsoft.com/en-us/windows/win32/intl/code-page-identifiers
 https://learn.microsoft.com/en-us/windows/win32/msi/event-logging
 https://learn.microsoft.com/en-us/windows/win32/procthread/process-security-and-access-rights
 https://learn.microsoft.com/en-us/windows/win32/projfs/enabling-windows-projected-file-system
+https://learn.microsoft.com/en-us/windows/win32/secauthn/acquirecredentialshandle--ntlm
 https://learn.microsoft.com/en-us/windows/win32/secauthz/mandatory-integrity-control
 https://learn.microsoft.com/en-us/windows/win32/secauthz/security-descriptor-definition-language
 https://learn.microsoft.com/en-us/windows/win32/secauthz/sid-strings
@@ -2183,6 +2189,7 @@ https://learn.microsoft.com/en-us/windows/win32/setupapi/run-and-runonce-registr
 https://learn.microsoft.com/en-us/windows/win32/shell/app-registration
 https://learn.microsoft.com/en-us/windows/win32/shell/csidl
 https://learn.microsoft.com/en-us/windows/win32/shell/launch
+https://learn.microsoft.com/en-us/windows/win32/shell/shell-and-managed-code
 https://learn.microsoft.com/en-us/windows/win32/taskschd/daily-trigger-example--xml-
 https://learn.microsoft.com/en-us/windows/win32/wer/collecting-user-mode-dumps
 https://learn.microsoft.com/en-us/windows/win32/winrm/windows-remote-management-architecture
@@ -2426,6 +2433,7 @@ https://mikefrobbins.com/2017/06/15/simple-obfuscation-with-powershell-using-bas
 https://mn3m.info/posts/suid-vs-capabilities/
 https://mobile.twitter.com/0gtweet/status/1564131230941122561
 https://modexp.wordpress.com/2019/08/30/minidumpwritedump-via-com-services-dll/
+https://moonlock.com/amos-backdoor-persistent-access
 https://mp.weixin.qq.com/s/wX9TMXl1KVWwB_k6EZOklw
 https://mp.weixin.qq.com/s?__biz=Mzg3NDU2MTg0Ng==&mid=2247484117&idx=1&sn=2fdab8cbe4b873f8dd8abb35d935d186
 https://mpgn.gitbook.io/crackmapexec/smb-protocol/authentication/checking-credentials-local
@@ -2655,6 +2663,7 @@ https://research.checkpoint.com/2023/rorschach-a-new-sophisticated-and-fast-rans
 https://research.checkpoint.com/2023/the-rhysida-ransomware-activity-analysis-and-ties-to-vice-society/
 https://research.checkpoint.com/ryuk-ransomware-targeted-campaign-break/
 https://research.eye.security/sharepoint-under-siege/
+https://research.ifcr.dk/certipy-4-0-esc9-esc10-bloodhound-gui-new-authentication-and-request-methods-and-more-7237d88061f7
 https://research.kudelskisecurity.com/2023/06/12/cve-2023-27997-fortigate-ssl-vpn/
 https://research.nccgroup.com/2018/05/18/emissary-panda-a-potential-new-malicious-tool/
 https://research.nccgroup.com/2020/06/23/wastedlocker-a-new-ransomware-variant-developed-by-the-evil-corp-group/
@@ -2668,6 +2677,7 @@ https://research.splunk.com/cloud/c783dd98-c703-4252-9e8a-f19d9f5c949e/
 https://research.splunk.com/cloud/e155876a-6048-11eb-ae93-0242ac130002/
 https://research.splunk.com/endpoint/07921114-6db4-4e2e-ae58-3ea8a52ae93f/
 https://research.splunk.com/endpoint/10399c1e-f51e-11eb-b920-acde48001122/
+https://research.splunk.com/endpoint/395ed5fe-ad13-4366-9405-a228427bdd91/
 https://research.splunk.com/endpoint/linux_doas_conf_file_creation/
 https://research.splunk.com/endpoint/linux_doas_tool_execution/
 https://research.splunk.com/endpoint/windows_possible_credential_dumping/
@@ -2862,6 +2872,7 @@ https://symantec-enterprise-blogs.security.com/threat-intelligence/harvester-new
 https://sysdig.com/blog/mitre-defense-evasion-falco
 https://systeminformer.sourceforge.io/
 https://t.co/ezOTGy1a1G
+https://taggart-tech.com/evildeno/
 https://taggart-tech.com/quasar-electron/
 https://taiwan.postsen.com/business/88601/Hamas-hackers-use-data-destruction-software-BiBi-which-consumes-a-lot-of-processor-resources-to-wipe-Windows-computer-data--iThome.html
 https://talesfrominfosec.blogspot.com/2017/12/killing-sysmon-silently.html
@@ -2922,6 +2933,7 @@ https://thedfirreport.com/2023/03/06/2022-year-in-review/
 https://thedfirreport.com/2023/05/22/icedid-macro-ends-in-nokoyawa-ransomware/
 https://thedfirreport.com/2023/08/28/html-smuggling-leads-to-domain-wide-ransomware/
 https://thedfirreport.com/2023/10/30/netsupport-intrusion-results-in-domain-compromise/
+https://thedfirreport.com/2024/04/01/from-onenote-to-ransomnote-an-ice-cold-intrusion/
 https://thedfirreport.com/2024/06/10/icedid-brings-screenconnect-and-csharp-streamer-to-alphv-ransomware-deployment/#detections
 https://thedfirreport.com/2024/09/30/nitrogen-campaign-drops-sliver-and-ends-with-blackcat-ransomware/
 https://thedfirreport.com/2025/06/30/hide-your-rdp-password-spray-leads-to-ransomhub-deployment/
@@ -3666,6 +3678,7 @@ https://www.elastic.co/guide/en/security/current/suspicious-cmd-execution-via-wm
 https://www.elastic.co/guide/en/security/current/uac-bypass-via-icmluautil-elevated-com-interface.html
 https://www.elastic.co/guide/en/security/current/uac-bypass-via-windows-firewall-snap-in-hijack.html#uac-bypass-via-windows-firewall-snap-in-hijack
 https://www.elastic.co/guide/en/security/current/unusual-child-process-of-dns-exe.html
+https://www.elastic.co/guide/en/security/current/unusual-file-modification-by-dns-exe.html
 https://www.elastic.co/guide/en/security/current/unusual-file-modification-by-dns.exe.html
 https://www.elastic.co/guide/en/security/current/unusual-parent-process-for-cmd.exe.html
 https://www.elastic.co/guide/en/security/current/volume-shadow-copy-deletion-via-powershell.html
@@ -3833,6 +3846,7 @@ https://www.malwarebytes.com/blog/detections/pum-optional-nodispbackgroundpage
 https://www.malwarebytes.com/blog/detections/pum-optional-nodispcpl
 https://www.malwarebytes.com/blog/detections/pup-optional-onelaunch-silentcf
 https://www.malwarebytes.com/blog/news/2014/01/the-rtlo-method
+https://www.man7.org/linux/man-pages/man1/systemctl.1.html
 https://www.manageengine.com/log-management/cyber-security/access-token-manipulation.html
 https://www.manageengine.com/products/desktop-central/os-imaging-deployment/media-is-write-protected.html
 https://www.manageengine.com/products/self-service-password/kb/how-to-fix-authentication-bypass-vulnerability-in-REST-API.html
@@ -4007,6 +4021,7 @@ https://www.sans.org/cyber-security-summit/archives
 https://www.sans.org/cyber-security-summit/archives/file/summit-archive-1492186586.pdf
 https://www.sans.org/webcasts/119395
 https://www.sans.org/webcasts/tech-tuesday-workshop-cobalt-strike-detection-log-analysis-119395
+https://www.scpx.com.au/2025/11/16/decades-old-finger-protocol-abused-in-clickfix-malware-attacks/
 https://www.scythe.io/library/threat-emulation-qakbot
 https://www.secuinfra.com/en/techtalk/hide-your-hypervisor-analysis-of-esxiargs-ransomware/
 https://www.secura.com/blog/zero-logon
@@ -4076,6 +4091,7 @@ https://www.thestack.technology/security-experts-call-for-incident-response-exer
 https://www.trellix.com/en-sg/about/newsroom/stories/threat-labs/lockergoga-ransomware-family-used-in-targeted-attacks.html
 https://www.trellix.com/en-us/about/newsroom/stories/research/beyond-file-search-a-novel-method.html
 https://www.trendmicro.com/content/dam/trendmicro/global/en/research/22/h/ransomware-actor-abuses-genshin-impact-anti-cheat-driver-to-kill-antivirus/Genshin%20Impact%20Figure%2010.jpg
+https://www.trendmicro.com/en_gb/research/22/e/uncovering-a-kingminer-botnet-attack-using-trend-micro-managed-x.html
 https://www.trendmicro.com/en_id/research/22/e/uncovering-a-kingminer-botnet-attack-using-trend-micro-managed-x.html
 https://www.trendmicro.com/en_no/research/24/b/cve202421412-water-hydra-targets-traders-with-windows-defender-s.html
 https://www.trendmicro.com/en_ph/research/20/k/new-macos-backdoor-connected-to-oceanlotus-surfaces.html
